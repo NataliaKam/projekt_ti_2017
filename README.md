@@ -1,6 +1,5 @@
 # Techniki internetowe
 
 TODO:
-
-- [x] założyć konto na GitHub
-- [ ] rozpoznać się w temacie _scure shell_
+- [] założyć konto na Github
+- [] rozpoznać się w temacie _scure shell_
